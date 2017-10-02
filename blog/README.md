@@ -1,4 +1,4 @@
-# Blog documentation
+# Blog documentation v8.2
 This is the documentation for NEWS
 
 ## This is a subtitle
