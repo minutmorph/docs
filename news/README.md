@@ -1,4 +1,4 @@
-# News documentation
+# News documentation v8.1
 This is the documentation for NEWS
 
 ## This is a subtitle
